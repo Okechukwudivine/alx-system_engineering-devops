@@ -12,3 +12,4 @@
 12. listing in long format
 13. Write a script that prints the type of the file
 14. Create a symbolic link to /bin/ls, named __ls__
+15. copying html files
