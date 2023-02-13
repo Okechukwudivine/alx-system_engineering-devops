@@ -5,3 +5,4 @@
 4. displaying the last 10 lines of a file.
 5. displaying the first 10 lines of a file.
 6. displaying the third line only of a file.
+7. creating a file which contains a text.
