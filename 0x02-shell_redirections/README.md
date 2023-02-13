@@ -10,3 +10,7 @@
 9. writing a script that duplicates the last line of a file.
 10. writing a script that deletes all the regular files with a js.
 11. writing a script that counts the number of directory and sub directory in the current directory. 
+12. Creating a script that displays the 10 newest files in the current directory.
+13. Creating a script that takes a list of words as input and prints only words that appear exactly once.
+14. Displaying lines containing the pattern “root” from the file /etc/passwd
+15. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
