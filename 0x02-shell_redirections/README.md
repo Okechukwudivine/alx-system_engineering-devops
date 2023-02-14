@@ -21,3 +21,4 @@
 20. Creating a script that removes all letters c and C from input.
 21. Writing a script that reverse its input.
 22. Writing a script that displays all users and their home directories, sorted by users.
+23. writing a script that finds all files and directory in the current directory.
