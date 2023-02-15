@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 10$#hexadecimal ))
+echo $((16#FF))
